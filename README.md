@@ -55,6 +55,14 @@ Feature importance analysis revealed that the most influential predictors were:
 
 ![Feature Importance](feature_importance.png)
 
+### Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
+
+### ROC Curve
+
+![ROC Curve](roc_curve.png)
+
 ## Technologies Used
 
 - Python
